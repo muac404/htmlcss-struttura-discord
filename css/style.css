@@ -14,7 +14,7 @@ body{
     
 
 }
-.head{
+.box-head{
     padding: 16px 0;
 }
 
@@ -150,9 +150,7 @@ body{
     
 }
 
-/* hr{
-    border: 0.5px solid white;
-} */
+
 
 .box-footer{
     display: flex;
@@ -171,11 +169,11 @@ body{
 .logo-footer{
     background-color: pink;
     border: 2px dashed black;
-    padding: 3px;
+    padding: 3px 6px;
 }
 
 .bottone-footer{
     background-color: pink;
     border: 2px dashed black;
-    padding: 3px;
+    padding: 3px 6px;
 }
