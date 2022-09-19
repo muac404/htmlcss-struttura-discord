@@ -51,6 +51,14 @@ body{
 .debug .box-green{
     background-color: green;
 }
+
+.debug .col-big-footer{
+    background-color: #f08080;
+}
+
+.debug .col-small-footer{
+    background-color: #20b2aa;
+}
 /* MAIN */
 
 .logo{
@@ -114,7 +122,34 @@ body{
     background-color: lightgrey;
 }
 
+.light-black{
+    background-color: #23272a;
+}
 .box-green{
     width: 1000%;
     height: 900px;
+}
+
+.row-footer{
+    display: flex;
+    padding-top: 10px;
+    padding-bottom: 30px;
+
+}
+.col-big-footer{
+    width: 33.33%;
+    height: 600px;
+    border: 2px dashed black;
+}
+
+.col-small-footer{
+    width: 16.6%;
+    height: 600px;
+    border: 2px dashed white;
+
+    
+}
+
+hr{
+    border: 5px solid white;
 }
