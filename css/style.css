@@ -47,6 +47,10 @@ body{
     border: 2px dashed black;
 
 }
+
+.debug .box-green{
+    background-color: green;
+}
 /* MAIN */
 
 .logo{
@@ -108,4 +112,9 @@ body{
 
 .grey{
     background-color: lightgrey;
+}
+
+.box-green{
+    width: 1000%;
+    height: 900px;
 }
