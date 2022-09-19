@@ -26,8 +26,7 @@ body{
 
 .debug .header-top{
     background-color: #daa520;
-    padding: 5px;
-    border: 2px dashed black;
+   
     
     
 }
@@ -49,6 +48,25 @@ body{
 
 }
 /* MAIN */
+
+.logo{
+    width: 20%;
+    padding: 5px;
+    border: 2px dashed black;
+}
+
+.main-nav{
+    width: 60%;
+    text-align: center;
+    padding: 5px;
+    border: 2px dashed black;
+}
+
+.login{
+    width: 20%;
+    padding: 5px;
+    border: 2px dashed black;
+}
 
 .box-rosa{
     height: 400px;
